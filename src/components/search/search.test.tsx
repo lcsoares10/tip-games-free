@@ -1,5 +1,5 @@
 import { render, screen } from "@testing-library/react";
-import Search from "@/components/search";
+import Search from "src/components/search";
 
 describe("Search", () => {
   it("input should is empty", () => {
